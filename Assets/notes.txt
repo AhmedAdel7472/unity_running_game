@@ -1,0 +1,14 @@
+Replace the flappy bird with a 2d character from your choice. done
+you have to create 3 states for the 2d character you have chosen. done
+states should be : Idle, Run, and Jump. done
+single state should be represented using multiple sprites. done
+background must be stable when the character is idle. done
+add rotated coins along your game, but take care, as your environment repeated, coins shouldn't come over each other. 
+increase the score text as you get coins, also reset this text when the game restarted. ask her if there should be a restart button
+add background music. done
+add UI mute button, so if you click on it the background music will mute and if you click again it should play again ... The image of button must change like this 🔈🔊    done
+-Also add UI slider that control the volume of sound. and note,e if volume is zero the sound icon should changed.    done
+
+
+I didn't fix the sprite size Problem yet  done
+only the coin animation remaining done

@@ -63,8 +63,8 @@ A 2D side-scrolling platformer game built in Unity featuring a robot character w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/robot-runner.git
-   cd robot-runner
+   git clone https://github.com/AhmedAdel7472/unity_running_game.git
+   cd unity_running_game
    ```
 
 2. **Open in Unity**
@@ -100,7 +100,7 @@ A 2D side-scrolling platformer game built in Unity featuring a robot character w
 ## 🏗️ Project Structure
 
 ```
-RobotRunner/
+unity_running_game/
 │
 ├── Assets/
 │   ├── Scenes/
